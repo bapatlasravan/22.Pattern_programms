@@ -1,4 +1,4 @@
-# 22.Pattern_programms 
+# 22.Pattern_programms  
 #  program 1:-
 #  """
 # rows=int(input("enter number of rows: "))
