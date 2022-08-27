@@ -1,5 +1,5 @@
 # 22.Pattern_programms   
-#  program 1:-
+#  program 1:- 
 #  """ 
 # rows=int(input("enter number of rows: "))
 # for i in range(0,rows):
